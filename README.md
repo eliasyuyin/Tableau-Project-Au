@@ -39,3 +39,5 @@ The analysis results are summarized as follows:
 ### Tableau Dashboard
 
 [Visit](https://public.tableau.com/app/profile/elias.vazquez1977/viz/portfolio_17283626217450/FinalDashboard)
+
+![Final Dashboard](https://github.com/user-attachments/assets/e38023c5-92b0-483c-b9a9-c8cdfa8ff9d8)
